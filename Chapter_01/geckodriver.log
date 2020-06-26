@@ -1,0 +1,34 @@
+1593109249509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileLS2n8E"
+1593109252887	Marionette	INFO	Listening on port 63113
+1593109252930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=731c3ca3ee99, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 43: TypeError: StackExchange.ready is not a function
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=731c3ca3ee99, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 320: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 1390: TypeError: StackExchange.ifUsing is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 1401: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 1493: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 1538: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 1914: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 2172: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/21928555/virtualenv-workon-command-not-found, line 2185: TypeError: StackExchange.ready is not a function
+1593112457455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileLM2IVW"
+1593112459315	Marionette	INFO	Listening on port 63553
+1593112459389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593112481245	Marionette	INFO	Stopped listening on port 63553
+1593112483301	Marionette	INFO	Stopped listening on port 63113
+1593112995544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileEJJ3Lq"
+1593112997174	Marionette	INFO	Listening on port 63949
+1593112997182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593157734418	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileyis4b3"
+1593157737056	Marionette	INFO	Listening on port 65459
+1593157737064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593157754694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileinsVAV"
+1593157756666	Marionette	INFO	Listening on port 65523
+1593157756741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593159588504	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofileSW5V7g"
+1593159590476	Marionette	INFO	Listening on port 49399
+1593159590550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593159604039	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/p4/fgnf0km13d95k9zlr1b29prw0000gn/T/rust_mozprofile5ahPAS"
+1593159605899	Marionette	INFO	Listening on port 49461
+1593159605990	Marionette	WARN	TLS certificate errors will be ignored for this session

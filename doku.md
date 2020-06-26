@@ -1,6 +1,6 @@
-Das ist eine Dokumentation des ganzen hier.
+Also was habe ich bereits gemacht:
 
-Also kein Quellcode an sich, außer ich entschließe mich dazu, dass ich MarkDown verwende. hehe
+Anaconda Umgebung eingerichtet superlists mit Django and Selenium, Python 3.7.7
 
-## test
+Sublime für die Verwendung mit Python vorbereitet, Python3 solver eingrichtet, pyhton3_superlists eingerichtet, sublimeREPL hinzugeügt
 
