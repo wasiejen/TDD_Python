@@ -21,6 +21,6 @@ from lists import views
 
 urlpatterns = [
 	#url(r"^$", views.home_page, name='home')
-	path("", views.home_page, name='home')
+	path("", views.home_page, name='home'),
     #path('admin/', admin.site.urls),
 ]

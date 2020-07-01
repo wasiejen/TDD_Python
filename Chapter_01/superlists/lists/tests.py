@@ -17,3 +17,7 @@ class HomePageTest(TestCase):
 		self.assertTrue(html.startswith("<html>"))
 		self.assertIn("<title>To-Do lists</title>", html)
 		self.assertTrue(html.endswith("</html>"))
+
+	def test_root_url_resolves_to_credits_view(self):
+		found = resolve("/credits")
+		self.assertEqual(found.func, credits)
